@@ -14,8 +14,4 @@ const sr = ScrollReveal({
 sr.reveal('#image',{delay : 600})
 sr.reveal('.a',{interval: 100})
 sr.reveal('#INTRO',{interval: 100})
-sr.reveal('.styles__section',{interval: 100})
-sr.reveal('.footer',{interval: 100})
-sr.reveal('.discount__img-1',{origin: 'left'})
-sr.reveal('.discount__img-2',{origin: 'right'})
-
+sr.reveal('.projects',{interval: 100})
